@@ -1,0 +1,38 @@
+﻿  pcd-assignment-final.c
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(257,33): warning C4020: 'search_staff': too many actual parameters
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(266,48): warning C4020: 'display_staff_annual_report': too many actual parameters
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(273,13): warning C4033: 'staffmain' must return a value
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(598,12): warning C4101: 'member': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(594,24): warning C4101: 'expdate': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(594,13): warning C4101: 'applydate': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(593,10): warning C4101: 'date': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(675,20): warning C4129: ',': unrecognized character escape sequence
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(768,24): warning C4129: ',': unrecognized character escape sequence
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(810,20): warning C4129: ',': unrecognized character escape sequence
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(807,12): warning C4101: 'member': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1090,20): warning C4129: ',': unrecognized character escape sequence
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1124,24): warning C4129: ',': unrecognized character escape sequence
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1109,12): warning C4101: 'member': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1175,20): warning C4129: ',': unrecognized character escape sequence
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1164,12): warning C4101: 'member': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1162,23): warning C4101: 'deleteContactNum': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1229,12): warning C4101: 'member': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1228,11): warning C4101: 'sales': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1339,20): warning C4101: 'mem': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1339,12): warning C4101: 'member': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1389,12): warning C4101: 'member': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1411,12): warning C4101: 'member': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1406,29): warning C4101: 'b': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1408,9): warning C4101: 'newQty': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1409,12): warning C4101: 'newPrice': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1490,20): warning C4129: ',': unrecognized character escape sequence
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1484,12): warning C4101: 'member': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1485,19): warning C4101: 'b': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1483,11): warning C4101: 'sales': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1552,11): warning C4101: 'sales': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1647,17): warning C4033: 'stockmain' must return a value
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1592,9): warning C4101: 'mainMenuChoice': unreferenced local variable
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1733,29): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(280): warning C4715: 'staffmain': not all control paths return a value
+C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\pcd-assignment-final.c(1661): warning C4715: 'stockmain': not all control paths return a value
+  PCD-ASSIGNMENT-FINAL.vcxproj -> C:\Users\Admin\Desktop\PCD-ASSIGNMENT-test\x64\Debug\PCD-ASSIGNMENT-FINAL.exe
